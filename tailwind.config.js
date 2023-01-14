@@ -11,12 +11,15 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'poppins': ['Poppins', 'sans-serif']
+        'poppins': ['Poppins', 'sans-serif'],
+        'bangers' : ['Bangers','cursive'],
+        'manrope': ['Manrope', 'sans-serif'],
+      },
+      screens: {
+        md: { max: '767px' },
+      },
     },
   },
-  plugins: [
-    require('tailwind-scrollbar-hide'),
-  ]
+  plugins: [require('tailwind-scrollbar-hide')],
 }
 
-}
