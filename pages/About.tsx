@@ -13,15 +13,15 @@ function About() {
         
         <div>
           <h6 className="pb-2 pt-10 pl-6 text-4xl text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-pink-300 " 
-          >Hi, I'm ShreD. I like anime and manga.
+          >Hi, I am ShreD. I like anime and manga.
           </h6> <br />
-          <h3 className="pr-10 pl-6 text-xl">This website would one day like to have the ability to let the user stream and download anime, though I'm not sure
-          if it is possible as of now. The backend also needs a lot more work. I'd like to be able to authenticate and add
+          <h3 className="pr-10 pl-6 text-xl">This website would one day like to have the ability to let the user stream and download anime, though I am not sure
+          if it is possible as of now. The backend also needs a lot more work. I wouldd like to be able to authenticate and add
           user specific features.
           </h3>
           <br /> <br />
           <h3 className="pl-6 pr-10 text-xl">
-          However, for now I won't let you go empty handed. Here are some sites where you can stream and download anime, 
+          However, for now I wont let you go empty handed. Here are some sites where you can stream and download anime, 
           read manga and light novels.
           </h3>
           <div className="flex items-center pt-12 pl-8 gap-5">
