@@ -30,7 +30,7 @@ function Music() {
               <h6 className="pb-6 pt-6 text-center text-3xl text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-blue-300">
                 Kimi no Shiranai Monogatari
               </h6>
-              This is a song i couldn't stop replaying. Since I heard the piano
+              This is a song i could not stop replaying. Since I heard the piano
               riff in the beginning, I have been hooked to the song. After
               watching Bakemonogatari, this song hit even harder. Definitely my
               number 1 pick.
@@ -93,7 +93,7 @@ function Music() {
             </h6>
             This song carries the neo soul vibe that I love so much. And of
             course, we have the vocals of the lead singer of yoasobi, whose
-            vocals are some of the sharpest and clearest I've heard. The
+            vocals are some of the sharpest and clearest I have heard. The
             instrumental acrobatics with the bass, piano and the electric guitar
             make the song an extremely catchy one.
           </h6>
