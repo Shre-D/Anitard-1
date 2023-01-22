@@ -34,39 +34,39 @@ function About() {
           </h3>
           <div className="flex items-center pt-12 pl-8 gap-5">
             <a href="https://zoro.to/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-green-600 to-green-400 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-green-600 to-green-400 rounded-2xl hover:text-slate-400">
                 Zoro
               </button>
             </a>
             <a href="https://9anime.vc/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-purple-600 to-pink-400 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-purple-600 to-pink-400 rounded-2xl hover:text-slate-400">
                 9anime
               </button>
             </a>
             <a href="https://mangadex.org/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-orange-300 to-yellow-300 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-orange-300 to-yellow-300 rounded-2xl hover:text-slate-400">
                 MangaDex
               </button>
             </a>
             <a href="https://nyaa.si/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-blue-500 to-cyan-300 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-blue-500 to-cyan-300 rounded-2xl hover:text-slate-400">
                 Nyaa
               </button>
             </a>
             <a href="https://animepahe.ru/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-red-500 to-pink-600 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-red-500 to-pink-600 rounded-2xl hover:text-slate-400">
                 Animepahe
               </button>
             </a>
           </div>
           <div className="flex pt-10 pl-8 gap-5">
             <a href="https://animelist.co/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-blue-700 to-cyan-600 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-blue-700 to-cyan-600 rounded-2xl hover:text-slate-400">
                 AniList
               </button>
             </a>
             <a href="https://myanimelist.net/ ">
-              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-yellow-700 to-orange-300 rounded-2xl hover:text-black hover:bg-green-600">
+              <button className="text-white shadow-lg h-16 w-24 bg-gradient-to-r from-yellow-700 to-orange-300 rounded-2xl hover:text-slate-400">
                 MyAnimeList
               </button>
             </a>
