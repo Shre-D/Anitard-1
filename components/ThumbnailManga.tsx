@@ -8,7 +8,7 @@ function ThumbnailManga({ manga }: Props) {
       <a href={manga?.url} target="_blank" rel="noreferrer">
         <img
           src={manga?.images.webp.large_image_url}
-          className="w-64 h-80 rounded-2xl shadow-md"
+          className="w-64 h-72 rounded-2xl shadow-md"
           alt="animeData"
         />
       </a>

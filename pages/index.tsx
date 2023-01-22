@@ -25,6 +25,7 @@ export default function Home() {
     e.preventDefault();
     getSearchResult(search);
   };
+  
   const queryans=search.split(' ').join('-')
   const link=`https://www1.gogoanimes.fi/category/${queryans}`
 

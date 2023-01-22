@@ -8,7 +8,7 @@ function ThumbnailAnime({ anime }: Props) {
       <a href={anime?.url} target="_blank" rel="noreferrer">
         <img
           src={anime?.images.webp.large_image_url}
-          className="w-64 h-80 rounded-2xl shadow-md"
+          className="w-64 h-72 rounded-2xl shadow-md"
           alt="animeData"
         />
       </a>
